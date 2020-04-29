@@ -28,3 +28,9 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# fbt
+.enum_manifest.json
+.source_strings.json
+.src_manifest.json
+src/translatedFbts.json
